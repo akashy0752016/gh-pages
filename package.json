@@ -1,5 +1,6 @@
 {
   "name": "gh-pages",
+  "homepage": "https://akashy0752016.github.io/gh-pages",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
